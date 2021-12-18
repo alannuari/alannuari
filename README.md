@@ -6,7 +6,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 <p align="left">
   <a href="https://github.com/alannuari">
-    <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alannuari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alannuari&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alannuari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alannuari&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
