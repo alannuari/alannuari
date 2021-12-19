@@ -1,6 +1,6 @@
 ### Hi 👋, This is Alan Nuari
 [![Linkedin Badge](https://img.shields.io/badge/-alan--nuari-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-nuari/)](https://www.linkedin.com/in/alan-nuari/)
-[![Gmail Badge](https://img.shields.io/badge/-alannuari372@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alannuari372@gmail.com)](mailto:alannuari372@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alannuari372@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=alannuari372@gmail.com)](alannuari372@gmail.com)
 
 I am a graduate student majoring in Mathematics from Airlangga University with specializing in Computational Mathematics.
 
